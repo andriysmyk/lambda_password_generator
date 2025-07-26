@@ -152,4 +152,6 @@ This project reflects the practical skills I’ve recently acquired in **AWS Clo
 
 This project is licensed under the MIT License.
 
-Just add some text to trigger the CI/CD pipeline. 
+---
+
+Just add some text to trigger the CI/CD pipeline.
