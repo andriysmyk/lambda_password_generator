@@ -17,8 +17,6 @@ terraform {
 
 provider "aws" {
   region = "eu-west-2"
-  # access_key = var.aws_access_key
-  # secret_key = var.aws_secret_key
 }
 
 data "aws_iam_policy_document" "assume_role" {
@@ -72,7 +70,7 @@ resource "aws_iam_role_policy_attachment" "lambda_cloudwatch_policy_attachment" 
 resource "aws_lambda_function" "example" {
   s3_bucket     = "lambda-code-asmyk"
   s3_key        = "lambda.zip"
-  function_name = "password_generator_tf"
+  function_name = "password_generator"
   role          = aws_iam_role.example.arn
   handler       = "lambda_function.lambda_handler"
   runtime       = var.lambda_runtime
