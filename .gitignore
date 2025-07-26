@@ -1,3 +1,16 @@
+# macOS
 .DS_Store
-.idea/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# IDE
+.idea/
+*.iml
