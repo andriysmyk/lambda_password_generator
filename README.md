@@ -10,7 +10,6 @@ This project demonstrates how to deploy an AWS Lambda function using **Terraform
 - **Terraform**: Infrastructure code to create:
   - Lambda function
   - IAM role and policy for logging to CloudWatch
-  - Two S3 buckets (for Terraform backend and Lambda source code)
 - **S3 Buckets**:
   - `terraform-state-asmyk` — stores `terraform.tfstate`
   - `lambda-code-asmyk` — stores the Lambda zip package
