@@ -150,3 +150,7 @@ This project reflects the practical skills I’ve recently acquired in **AWS Clo
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+some text
