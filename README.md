@@ -89,7 +89,7 @@ terraform destroy -auto-approve
 
 ---
 
-## ⚙️ GitHub Actions CI/CD
+##  GitHub Actions CI/CD
 
 This project includes a fully automated deployment pipeline using GitHub Actions.
 
