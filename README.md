@@ -141,7 +141,7 @@ This project includes a fully automated deployment pipeline using GitHub Actions
 
 ##  Author
 
-**Andriy Smyk** – Junior DevOps Engineer based in London 🇬🇧  
+**Andriy Smyk** – DevOps Engineer | AWS, Terraform, CI/CD | London 🇬🇧  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/andriysmyk)
 
 This project reflects the practical skills I’ve recently acquired in **AWS Cloud**, **Terraform**, **Python**, and **GitHub Actions**, and how they can be applied in a production-like scenario.
