@@ -1,10 +1,11 @@
 # 🔐 AWS Lambda Password Generator - DevOps Project
+![CI](https://github.com/andriysmyk/lambda_password_generator/actions/workflows/deploy-lambda.yaml/badge.svg)
 
 This project demonstrates how to deploy an AWS Lambda function using **Terraform** and automate the process with **GitHub Actions**. It's a simple and effective showcase of **Infrastructure as Code (IaC)**, **CI/CD pipelines**, and practical **AWS Cloud** skills.
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Lambda Function**: Python script that generates a random password.
 - **Terraform**: Infrastructure code to create:
@@ -20,7 +21,7 @@ This project demonstrates how to deploy an AWS Lambda function using **Terraform
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Tool             | Purpose                                 |
 |------------------|------------------------------------------|
@@ -33,7 +34,7 @@ This project demonstrates how to deploy an AWS Lambda function using **Terraform
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -49,7 +50,7 @@ This project demonstrates how to deploy an AWS Lambda function using **Terraform
 
 ---
 
-## 🚀 How to Deploy
+##  How to Deploy
 
 ### 1. Prepare Lambda Function
 
@@ -110,7 +111,7 @@ This project includes a fully automated deployment pipeline using GitHub Actions
 
 ---
 
-## 🧲 Lambda Response Example
+##  Lambda Response Example
 
 ```json
 {
@@ -129,7 +130,7 @@ This project includes a fully automated deployment pipeline using GitHub Actions
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Accept password length as an input via `event`
 - Add API Gateway for public access
@@ -138,15 +139,15 @@ This project includes a fully automated deployment pipeline using GitHub Actions
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Andriy Smyk** – Junior DevOps Engineer based in London 🇬🇧  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/andriy-smyk-b5446311b)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/andriysmyk)
 
 This project reflects the practical skills I’ve recently acquired in **AWS Cloud**, **Terraform**, **Python**, and **GitHub Actions**, and how they can be applied in a production-like scenario.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
